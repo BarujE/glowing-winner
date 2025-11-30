@@ -20,11 +20,12 @@ if pick == "mp4" or pick == "mp3" or pick == "wav":
     
     print(f"audio Complete")
 else:
-    print("Invalid Audio Format please select mp4, mp3, or Wav you fucking idiot")
+    print("Invalid Audio Format please select mp4, mp3, or Wav Please do it again")
 
     exit()
 
 print("thank you for using The Youtube audio Downloader Made by Baruj")
+
 
 
 
